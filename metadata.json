@@ -1,0 +1,6 @@
+{
+  "name": "দাড়িদহ বাজার",
+  "description": "দাড়িদহ বাজার - আপনার প্রয়োজনীয় সকল বাজারের পণ্য সহজে কেনাকাটা ও সরাসরি WhatsApp-এ অর্ডার করুন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
